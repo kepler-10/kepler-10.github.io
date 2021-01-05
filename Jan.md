@@ -14,11 +14,11 @@
 
 随后拼多多官方“辟谣”
 
-![](https://github.com/kepler-10/kepler-10.github.io/blob/main/pdd1.jpg)
+![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/pdd1.jpg)
 
 知乎官方解释
 
-![](Jan\3ljgcze50mvsmdxcqbjo00ozm.jpg)
+![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/zhihu.jpg)
 
 拼多多对知乎的声明再次发声明
 
