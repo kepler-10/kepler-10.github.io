@@ -57,7 +57,7 @@
 [中国科学院学部官网发布中科院学部科学道德建设委员会（以下简称“学部道德委”）关于饶毅《正式举报林-裴（1999）论文涉嫌学术不端》处理意见。](http://news.sciencenet.cn/htmlnews/2021/1/452442.shtm)
 
 ### 1.26 21:10
-![饶议科学公众号内容]()
+![饶议科学公众号内容](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/raoyi.jpg)
 
 ### 饶毅举报裴钢时间线
 ![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/%E9%A5%B6-%E8%A3%B4.jpg)
