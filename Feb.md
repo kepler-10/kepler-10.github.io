@@ -1,1 +1,1 @@
-### this is news notebook for Feburary
+### this is news notebook for February
