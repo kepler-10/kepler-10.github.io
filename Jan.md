@@ -4,25 +4,26 @@
 
 脉脉用户爆料
 
-![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/maimai.jpg)
-![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/maimai1.jpg)
+![image](./picture/maimai.jpg)
+![image](./picture/maimai1.jpg)
+
 ### 1.4
 
 早上8点19分49秒，拼多多官方账号在知乎创建回答后秒删
 
-![image](Jan\v2-dc4281b8d1869bdaa543af10492a4dae_720w.jpg)
+![image](./picture/pdd.jpg)
 
 随后拼多多官方“辟谣”
 
-![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/pdd1.jpg)
+![image](./picture/pdd1.jpg)
 
 知乎官方解释
 
-![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/zhihu.jpg)
+![image](./picture/zhihu.jpg)
 
 拼多多对知乎的声明再次发声明
 
-![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/pdd2.jpg)
+![image](./picture/pdd2.jpg)
 
 ### 1.9
 [据央视新闻消息，当地时间1月9日，据印尼媒体报道，一架从印尼首都雅加达起飞的三佛齐航空公司旗下波音737-524客机，在起飞数分钟后失联。](https://www.zhihu.com/question/438613346/answer/1669507199)
@@ -57,10 +58,10 @@
 [中国科学院学部官网发布中科院学部科学道德建设委员会（以下简称“学部道德委”）关于饶毅《正式举报林-裴（1999）论文涉嫌学术不端》处理意见。](http://news.sciencenet.cn/htmlnews/2021/1/452442.shtm)
 
 ### 1.26 21:10
-![饶议科学公众号内容](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/raoyi.jpg)
+![饶议科学公众号内容](./picture/raoyi.jpg)
 
 ### 饶毅举报裴钢时间线
-![image](https://github.com/kepler-10/kepler-10.github.io/blob/main/picture/%E9%A5%B6-%E8%A3%B4.jpg)
+![image](./picture/饶-裴.jpg)
 
 ### 1.26 [江西吉水一名医生遭歹徒持刃袭击不幸去世](https://view.inews.qq.com/a/20210127A040Q600)
 
