@@ -17,5 +17,8 @@
 git branch -c `branch-name`
 2.将本地分支push到远程，并建立远程分支
 git push -u origin `branch-name` 
+3.远程更新文件
+先 git checkout `branch-name` 
+再进行push 操作
 ```
 
