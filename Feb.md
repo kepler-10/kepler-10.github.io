@@ -19,3 +19,6 @@ git branch -c `branch-name`
 git push -u origin `branch-name` 
 ```
 
+#### 3.配置
+
+2022.12.23重新配置
